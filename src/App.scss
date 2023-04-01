@@ -1,0 +1,11 @@
+@import "./components/LeftSidebar/leftSidebar";
+@import "./components/Navigation/navigation";
+@import "./Styles/variables.scss";
+
+
+
+body{
+        background-color: $grey-background;
+        font-family: $font-sans-serif;
+
+}
